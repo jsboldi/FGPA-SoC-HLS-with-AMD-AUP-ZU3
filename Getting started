@@ -1,0 +1,7 @@
+Welcome to the FPGA-SoC-HLS curriculum site, where we will be learning how to program and interface with the AMD AUP-ZU3.
+
+FPGA's are a type of compute used in various application. FPGA stands for Field programmable gate array. an FPGA is a reconfigurable 
+programmable compute unit that is made of memories, configurable logic blocks, programmable interconnects and other hard logic blocks like DSP's.
+This course will teach you how to interface with these FPGA boards using the AMD software suite: Vivado and Vitis. Vivado is a program from AMD that can simulate verilog code and testbenches, synthesize RTL code,
+implement the RTL code, and finally program the bitstream to the FPGA board. Vitis is a tool that is used for HLS (High level synthesis), where experienced designers can use c++ code to describe their design, and Vitis will
+synthesize that to RTL and a Vivado IP.
