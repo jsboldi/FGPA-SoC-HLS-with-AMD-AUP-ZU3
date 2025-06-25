@@ -24,14 +24,14 @@ RTL stands for Register Transfer level and refers to the level above transistor 
 at the "Register Transfer Level".
 
 # Acquire AMD AUP ZU3 Board.
-You’re not restricted to the following vendor, but it’s an example of the product you need. Example Purchase Link
-https://www.realdigital.org/hardware/aup-zu3 
+You’re not restricted to the following vendor, but it’s an example of the product you need. [Example Purchase Link](https://www.realdigital.org/hardware/aup-zu3 )
+
+
 
 
 # Register with AMD
 It is necessary to create an AMD account to receive the Download.
-Create your AMD account here: AMD Account Registration
-https://www.amd.com/en/registration/create-account.html
+Create your AMD account here: [AMD Account Registration](https://www.amd.com/en/registration/create-account.html)
 
 # Get Vitis Software
 Download Vitis™ Unified Software Platform 2023.2 from Vitis Download Page. Ensure your computer is compatible. IMPORTANT -> If you wish to download/run Vitis/Vivado to your laptop/local PC.
