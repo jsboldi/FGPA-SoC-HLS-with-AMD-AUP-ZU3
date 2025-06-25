@@ -1,6 +1,7 @@
 ---
 title: Lab1
 parent: FPGA/SoC
+layout: default
 nav_order: 1
 ---
 
