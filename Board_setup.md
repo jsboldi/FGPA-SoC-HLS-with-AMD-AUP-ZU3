@@ -28,6 +28,7 @@ https://www.realdigital.org/hardware/aup-zu3
 
 
 # Register with AMD
+It is necessary to create an AMD account to receive the Download.
 Create your AMD account here: AMD Account Registration
 https://www.amd.com/en/registration/create-account.html
 
@@ -38,7 +39,7 @@ A couple notes
 2. Vitis/Vivado as a package takes up around 90-100 GB of Hard drive space. So ensure you have plenty of Storage.
 3. Vitis/Vivado will only really run comfortably with 20+ GB of RAM. You can try to do 16 GB but it will likely be slow.
 
-# A note for Clemson University Stuents 
+# A note for Clemson University Students 
 Vitis/Vivado is already installed on computers in Cadence Lab, Riggs B22. So, use that!
 
 Proceed with Vitis Installation.
