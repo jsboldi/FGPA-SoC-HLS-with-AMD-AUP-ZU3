@@ -1,6 +1,6 @@
 ---
 title: Page One
-parent: My New Section
+parent: FPGA/SoC
 nav_order: 1
 ---
 
