@@ -1,9 +1,9 @@
 ---
-title: Page One
+title: Lab1
 parent: FPGA/SoC
 nav_order: 1
 ---
 
-# Page One
+# Lab1
 
-Your content here.
+This will be the content for the first lab
