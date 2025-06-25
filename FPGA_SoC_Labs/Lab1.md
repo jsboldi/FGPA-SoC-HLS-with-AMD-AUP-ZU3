@@ -1,8 +1,8 @@
 ---
-title: My New Section
-nav_order: 1
+title: FPGA/SoC
+nav_order: 3
 has_children: true
-permalink: /my-new-section/
+permalink: /FPGA-SoC/
 ---
 
 # My New Section
