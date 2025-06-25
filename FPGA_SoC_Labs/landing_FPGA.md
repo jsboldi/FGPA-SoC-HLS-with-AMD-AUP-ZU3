@@ -5,7 +5,8 @@ has_children: true
 permalink: /FPGA-SoC/
 ---
 
-# My New Section
+# Welcome to FPGA/SoC
 
-This is a new section.
+
+This seciton
 
