@@ -1,6 +1,7 @@
 ---
 title: Lab1
 parent: Verilog Labs
+layout: default
 nav_order: 1
 ---
 
