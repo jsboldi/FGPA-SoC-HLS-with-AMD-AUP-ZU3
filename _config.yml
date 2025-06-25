@@ -1,5 +1,20 @@
 title: FGPA-SoC-HLS-with-AMD-AUP-ZU3
 
+
+# _config.yml
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Enable the sidebar navigation
+just_the_docs:
+  collections:
+    pages:
+      nav: true
+
+
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
